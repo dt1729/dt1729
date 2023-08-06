@@ -1,15 +1,7 @@
-<h1 align="center">Hi 👋, I'm Divya Tiwari</h1>
-<h3 align="center">Robotics Engineer and currently a graduate student at CU Boulder</h3>
 
-- 🌱 I’m currently learning **Multi-agent robotics, Networking, Convex optimisation, Pose Graphs**
+- I’m currently learning **Multi-agent robotics, Networking, Convex optimisation, and Pose Graphs**
+- Ask me about **C++, Python, ROS, ROS2, OpenCV, OMPL,Tensorflow**
 
-- 👯 I’m looking to collaborate on **Motion planning Stack for Jackal**
-
-- 🤝 I’m looking for help with **Multi-agent slam with shared Pose graphs**
-
-- 💬 Ask me about **C++, Python, ROS, ROS2, OpenCV, OMPL,Tensorflow**
-
-- 📫 How to reach me **divya.tiwari@colorado.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
